@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/71846a30c5f2a540d3924d924450a2048138ad7095e40f8a1950c6bee470371d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63392f64362f33642f63396436336430333262653233613739333765346438643835663761363635302e676966)](https://my-portfolio-2-drab.vercel.app)
 <h1 align="center">Hi 👋, I'm Gourav Kumar Dash</h1>
 <h3 align="center">A passionate Fullstack developer and AWS cloud Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 
