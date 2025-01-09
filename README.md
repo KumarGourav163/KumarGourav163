@@ -58,7 +58,7 @@
 
 - 📫 How to reach me **gourabdash2015@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EFyjRQpKeqWRCyd6XvIuZKBzf6pz_VKA/view?usp=sharing](https://drive.google.com/file/d/1EFyjRQpKeqWRCyd6XvIuZKBzf6pz_VKA/view?usp=sharing)
+- 📄 Know about my experiences [https://my-portfolio-2-drab.vercel.app](https://my-portfolio-2-drab.vercel.app)
 
 - ⚡ Fun fact **I think i'm a great developer 😅**
 
