@@ -126,6 +126,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+![contributions](https://github.com/user-attachments/assets/7c3762ab-d9fe-482e-b5bc-59e68e396707)
+
+
 
 
 
